@@ -1,0 +1,228 @@
+Aug 31 09:29:52 10.71.54.8 u97880690 Connection from 10.71.54.8 port 28056 on 74.208.59.4 port 22
+Aug 31 09:29:58 10.71.54.8 u97880690 Failed password for u97880690 from 10.71.54.8 port 28056 ssh2
+Aug 31 09:30:10 10.71.54.8 u97880690 Connection from 10.71.54.8 port 36412 on 74.208.59.4 port 22
+Aug 31 09:30:12 10.71.54.8 u97880690 Failed password for u97880690 from 10.71.54.8 port 36412 ssh2
+Aug 31 09:30:39 10.71.54.8 u97880690 Connection from 10.71.54.8 port 48546 on 74.208.59.4 port 22
+Aug 31 09:30:41 10.71.54.8 u97880690 Failed password for u97880690 from 10.71.54.8 port 48546 ssh2
+Aug 31 09:30:50 10.71.54.8 u97880690 Connection from 10.71.54.8 port 53694 on 74.208.59.4 port 22
+Aug 31 09:30:51 10.71.54.8 u97880690 Accepted password for u97880690 from 10.71.54.8 port 53694 ssh2
+Aug 31 09:30:51 10.71.54.8 u97880690 Starting session: subsystem 'sftp' for u97880690 from 10.71.54.8 port 53694
+Aug 31 09:30:51 10.71.54.8 u97880690 session opened for local user u97880690 from [10.71.54.8]
+Aug 31 09:31:27 10.71.54.8 u97880690 Connection from 10.71.54.8 port 16728 on 74.208.59.4 port 22
+Aug 31 09:31:27 10.71.54.8 u97880690 Accepted password for u97880690 from 10.71.54.8 port 16728 ssh2
+Aug 31 09:31:27 10.71.54.8 u97880690 Connection from 10.71.54.8 port 16746 on 74.208.59.4 port 22
+Aug 31 09:31:27 10.71.54.8 u97880690 Accepted password for u97880690 from 10.71.54.8 port 16746 ssh2
+Aug 31 09:31:27 10.71.54.8 u97880690 Starting session: subsystem 'sftp' for u97880690 from 10.71.54.8 port 16746
+Aug 31 09:31:27 10.71.54.8 u97880690 Starting session: subsystem 'sftp' for u97880690 from 10.71.54.8 port 16728
+Aug 31 09:31:27 10.71.54.8 u97880690 session opened for local user u97880690 from [10.71.54.8]
+Aug 31 09:31:27 10.71.54.8 u97880690 session opened for local user u97880690 from [10.71.54.8]
+Aug 31 09:31:28 10.71.54.8 u97880690 open "/favicon.ico" flags READ mode 0666
+Aug 31 09:31:28 10.71.54.8 u97880690 open "/debug.log" flags READ mode 0666
+Aug 31 09:31:28 10.71.54.8 u97880690 close "/favicon.ico" bytes read 1506 written 0
+Aug 31 09:31:28 10.71.54.8 u97880690 [10.71.54.8|get|0|1506|0|0|0|2f66617669636f6e2e69636f|]
+Aug 31 09:31:28 10.71.54.8 u97880690 close "/debug.log" bytes read 10400 written 0
+Aug 31 09:31:28 10.71.54.8 u97880690 [10.71.54.8|get|0|10400|0|0|0|2f64656275672e6c6f67|]
+Aug 31 09:31:28 10.71.54.8 u97880690 open "/index.html" flags READ mode 0666
+Aug 31 09:31:28 10.71.54.8 u97880690 open "/index.html BACKUP 1" flags READ mode 0666
+Aug 31 09:31:28 10.71.54.8 u97880690 close "/index.html" bytes read 14879 written 0
+Aug 31 09:31:28 10.71.54.8 u97880690 [10.71.54.8|get|0|14879|0|0|0|2f696e6465782e68746d6c|]
+Aug 31 09:31:28 10.71.54.8 u97880690 close "/index.html BACKUP 1" bytes read 15305 written 0
+Aug 31 09:31:28 10.71.54.8 u97880690 [10.71.54.8|get|0|15305|0|0|0|2f696e6465782e68746d6c204241434b55502031|]
+Aug 31 09:31:28 10.71.54.8 u97880690 open "/index.html BACKUP 2" flags READ mode 0666
+Aug 31 09:31:28 10.71.54.8 u97880690 open "/index.html.underconstruction" flags READ mode 0666
+Aug 31 09:31:28 10.71.54.8 u97880690 close "/index.html BACKUP 2" bytes read 16003 written 0
+Aug 31 09:31:28 10.71.54.8 u97880690 [10.71.54.8|get|0|16003|0|0|0|2f696e6465782e68746d6c204241434b55502032|]
+Aug 31 09:31:28 10.71.54.8 u97880690 session closed for local user u97880690 from [10.71.54.8]
+Aug 31 09:31:29 10.71.54.8 u97880690 Connection closed by 10.71.54.8
+Aug 31 09:31:29 10.71.54.8 u97880690 close "/index.html.underconstruction" bytes read 1470 written 0
+Aug 31 09:31:29 10.71.54.8 u97880690 [10.71.54.8|get|1|1470|0|0|0|2f696e6465782e68746d6c2e756e646572636f6e737472756374696f6e|]
+Aug 31 09:31:29 10.71.54.8 u97880690 session closed for local user u97880690 from [10.71.54.8]
+Aug 31 09:31:29 10.71.54.8 u97880690 Connection closed by 10.71.54.8
+Aug 31 09:31:29 10.71.54.8 u97880690 Connection from 10.71.54.8 port 17888 on 74.208.59.4 port 22
+Aug 31 09:31:29 10.71.54.8 u97880690 Accepted password for u97880690 from 10.71.54.8 port 17888 ssh2
+Aug 31 09:31:29 10.71.54.8 u97880690 Connection from 10.71.54.8 port 17936 on 74.208.59.4 port 22
+Aug 31 09:31:29 10.71.54.8 u97880690 Accepted password for u97880690 from 10.71.54.8 port 17936 ssh2
+Aug 31 09:31:30 10.71.54.8 u97880690 Starting session: subsystem 'sftp' for u97880690 from 10.71.54.8 port 17888
+Aug 31 09:31:30 10.71.54.8 u97880690 Starting session: subsystem 'sftp' for u97880690 from 10.71.54.8 port 17936
+Aug 31 09:31:30 10.71.54.8 u97880690 session opened for local user u97880690 from [10.71.54.8]
+Aug 31 09:31:30 10.71.54.8 u97880690 session opened for local user u97880690 from [10.71.54.8]
+Aug 31 09:31:30 10.71.54.8 u97880690 open "/.vscode/settings.json" flags READ mode 0666
+Aug 31 09:31:30 10.71.54.8 u97880690 open "/assets/css/orbit-1.css" flags READ mode 0666
+Aug 31 09:31:30 10.71.54.8 u97880690 close "/.vscode/settings.json" bytes read 436 written 0
+Aug 31 09:31:30 10.71.54.8 u97880690 [10.71.54.8|get|0|436|0|0|0|2f2e7673636f64652f73657474696e67732e6a736f6e|]
+Aug 31 09:31:30 10.71.54.8 u97880690 close "/assets/css/orbit-1.css" bytes read 6620 written 0
+Aug 31 09:31:30 10.71.54.8 u97880690 [10.71.54.8|get|0|6620|0|0|0|2f6173736574732f6373732f6f726269742d312e637373|]
+Aug 31 09:31:30 10.71.54.8 u97880690 open "/assets/css/spotifyplayer.css" flags READ mode 0666
+Aug 31 09:31:30 10.71.54.8 u97880690 open "/assets/images/profile.JPG" flags READ mode 0666
+Aug 31 09:31:30 10.71.54.8 u97880690 close "/assets/css/spotifyplayer.css" bytes read 2896 written 0
+Aug 31 09:31:30 10.71.54.8 u97880690 [10.71.54.8|get|0|2896|0|0|0|2f6173736574732f6373732f73706f74696679706c617965722e637373|]
+Aug 31 09:31:30 10.71.54.8 u97880690 close "/assets/images/profile.JPG" bytes read 11056 written 0
+Aug 31 09:31:30 10.71.54.8 u97880690 [10.71.54.8|get|0|11056|0|0|0|2f6173736574732f696d616765732f70726f66696c652e4a5047|]
+Aug 31 09:31:31 10.71.54.8 u97880690 open "/assets/javascript/spotify.js BACKUP  1" flags READ mode 0666
+Aug 31 09:31:31 10.71.54.8 u97880690 open "/assets/javascript/spotify.js" flags READ mode 0666
+Aug 31 09:31:31 10.71.54.8 u97880690 close "/assets/javascript/spotify.js BACKUP  1" bytes read 1935 written 0
+Aug 31 09:31:31 10.71.54.8 u97880690 [10.71.54.8|get|0|1935|0|0|0|2f6173736574732f6a6176617363726970742f73706f746966792e6a73204241434b5550202031|]
+Aug 31 09:31:31 10.71.54.8 u97880690 close "/assets/javascript/spotify.js" bytes read 3456 written 0
+Aug 31 09:31:31 10.71.54.8 u97880690 [10.71.54.8|get|0|3456|0|0|0|2f6173736574732f6a6176617363726970742f73706f746966792e6a73|]
+Aug 31 09:31:31 10.71.54.8 u97880690 open "/assets/plugins/jquery-3.3.1.min.js" flags READ mode 0666
+Aug 31 09:31:31 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/.travis.yml" flags READ mode 0666
+Aug 31 09:31:31 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/.travis.yml" bytes read 3289 written 0
+Aug 31 09:31:31 10.71.54.8 u97880690 [10.71.54.8|get|0|3289|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f2e7472617669732e796d6c|]
+Aug 31 09:31:31 10.71.54.8 u97880690 close "/assets/plugins/jquery-3.3.1.min.js" bytes read 86927 written 0
+Aug 31 09:31:31 10.71.54.8 u97880690 [10.71.54.8|get|0|86927|0|0|0|2f6173736574732f706c7567696e732f6a71756572792d332e332e312e6d696e2e6a73|]
+Aug 31 09:31:31 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/.hound.yml" flags READ mode 0666
+Aug 31 09:31:31 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/.hound.yml" bytes read 79 written 0
+Aug 31 09:31:31 10.71.54.8 u97880690 [10.71.54.8|get|0|79|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f2e686f756e642e796d6c|]
+Aug 31 09:31:32 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/.gitignore" flags READ mode 0666
+Aug 31 09:31:32 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/.gitattributes" flags READ mode 0666
+Aug 31 09:31:32 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/.gitignore" bytes read 421 written 0
+Aug 31 09:31:32 10.71.54.8 u97880690 [10.71.54.8|get|0|421|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f2e67697469676e6f7265|]
+Aug 31 09:31:32 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/.gitattributes" bytes read 363 written 0
+Aug 31 09:31:32 10.71.54.8 u97880690 [10.71.54.8|get|0|363|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f2e67697461747472696275746573|]
+Aug 31 09:31:32 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/.editorconfig" flags READ mode 0666
+Aug 31 09:31:32 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/.editorconfig" bytes read 232 written 0
+Aug 31 09:31:32 10.71.54.8 u97880690 [10.71.54.8|get|0|232|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f2e656469746f72636f6e666967|]
+Aug 31 09:31:32 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap.min.css.map" flags READ mode 0666
+Aug 31 09:31:32 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap.min.css.map" bytes read 563340 written 0
+Aug 31 09:31:32 10.71.54.8 u97880690 [10.71.54.8|get|0|563340|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702e6d696e2e6373732e6d6170|]
+Aug 31 09:31:32 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap.min.css" flags READ mode 0666
+Aug 31 09:31:32 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap.css.map" flags READ mode 0666
+Aug 31 09:31:32 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap.min.css" bytes read 142041 written 0
+Aug 31 09:31:32 10.71.54.8 u97880690 [10.71.54.8|get|0|142041|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702e6d696e2e637373|]
+Aug 31 09:31:32 10.71.54.8 u97880690 sent status No such file
+Aug 31 09:31:32 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap.css.map" bytes read 429429 written 0
+Aug 31 09:31:32 10.71.54.8 u97880690 [10.71.54.8|get|0|429429|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702e6373732e6d6170|]
+Aug 31 09:31:33 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap.css" flags READ mode 0666
+Aug 31 09:31:33 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap-reboot.min.css.map" flags READ mode 0666
+Aug 31 09:31:33 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap.css" bytes read 174702 written 0
+Aug 31 09:31:33 10.71.54.8 u97880690 [10.71.54.8|get|0|174702|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702e637373|]
+Aug 31 09:31:33 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap-reboot.min.css.map" bytes read 25960 written 0
+Aug 31 09:31:33 10.71.54.8 u97880690 [10.71.54.8|get|0|25960|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702d7265626f6f742e6d696e2e6373732e6d6170|]
+Aug 31 09:31:33 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap-reboot.min.css" flags READ mode 0666
+Aug 31 09:31:33 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap-reboot.css.map" flags READ mode 0666
+Aug 31 09:31:33 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap-reboot.min.css" bytes read 4011 written 0
+Aug 31 09:31:33 10.71.54.8 u97880690 [10.71.54.8|get|0|4011|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702d7265626f6f742e6d696e2e637373|]
+Aug 31 09:31:33 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap-reboot.css.map" bytes read 60452 written 0
+Aug 31 09:31:33 10.71.54.8 u97880690 [10.71.54.8|get|0|60452|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702d7265626f6f742e6373732e6d6170|]
+Aug 31 09:31:33 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap-reboot.css" flags READ mode 0666
+Aug 31 09:31:33 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap-grid.min.css.map" flags READ mode 0666
+Aug 31 09:31:33 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap-reboot.css" bytes read 4887 written 0
+Aug 31 09:31:33 10.71.54.8 u97880690 [10.71.54.8|get|0|4887|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702d7265626f6f742e637373|]
+Aug 31 09:31:33 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap-grid.min.css.map" bytes read 68241 written 0
+Aug 31 09:31:33 10.71.54.8 u97880690 [10.71.54.8|get|0|68241|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702d677269642e6d696e2e6373732e6d6170|]
+Aug 31 09:31:33 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap-grid.min.css" flags READ mode 0666
+Aug 31 09:31:33 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap-grid.css.map" flags READ mode 0666
+Aug 31 09:31:33 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap-grid.min.css" bytes read 28977 written 0
+Aug 31 09:31:33 10.71.54.8 u97880690 [10.71.54.8|get|0|28977|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702d677269642e6d696e2e637373|]
+Aug 31 09:31:34 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/css/bootstrap-grid.css" flags READ mode 0666
+Aug 31 09:31:34 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap-grid.css.map" bytes read 98361 written 0
+Aug 31 09:31:34 10.71.54.8 u97880690 [10.71.54.8|get|1|98361|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702d677269642e6373732e6d6170|]
+Aug 31 09:31:34 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/css/bootstrap-grid.css" bytes read 37644 written 0
+Aug 31 09:31:34 10.71.54.8 u97880690 [10.71.54.8|get|0|37644|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6373732f626f6f7473747261702d677269642e637373|]
+Aug 31 09:31:34 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/js/bootstrap.min.js.map" flags READ mode 0666
+Aug 31 09:31:34 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/js/bootstrap.min.js" flags READ mode 0666
+Aug 31 09:31:34 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/js/bootstrap.min.js.map" bytes read 176087 written 0
+Aug 31 09:31:34 10.71.54.8 u97880690 [10.71.54.8|get|0|176087|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6a732f626f6f7473747261702e6d696e2e6a732e6d6170|]
+Aug 31 09:31:34 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/js/bootstrap.js.map" flags READ mode 0666
+Aug 31 09:31:34 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/js/bootstrap.min.js" bytes read 51039 written 0
+Aug 31 09:31:34 10.71.54.8 u97880690 [10.71.54.8|get|0|51039|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6a732f626f6f7473747261702e6d696e2e6a73|]
+Aug 31 09:31:34 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/js/bootstrap.js" flags READ mode 0666
+Aug 31 09:31:34 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/js/bootstrap.js.map" bytes read 211967 written 0
+Aug 31 09:31:34 10.71.54.8 u97880690 [10.71.54.8|get|0|211967|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6a732f626f6f7473747261702e6a732e6d6170|]
+Aug 31 09:31:34 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/js/bootstrap.bundle.min.js.map" flags READ mode 0666
+Aug 31 09:31:35 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/js/bootstrap.js" bytes read 123765 written 0
+Aug 31 09:31:35 10.71.54.8 u97880690 [10.71.54.8|get|1|123765|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6a732f626f6f7473747261702e6a73|]
+Aug 31 09:31:35 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/js/bootstrap.bundle.min.js" flags READ mode 0666
+Aug 31 09:31:35 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/js/bootstrap.bundle.min.js.map" bytes read 294126 written 0
+Aug 31 09:31:35 10.71.54.8 u97880690 [10.71.54.8|get|1|294126|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6a732f626f6f7473747261702e62756e646c652e6d696e2e6a732e6d6170|]
+Aug 31 09:31:35 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/js/bootstrap.bundle.js.map" flags READ mode 0666
+Aug 31 09:31:35 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/js/bootstrap.bundle.min.js" bytes read 70966 written 0
+Aug 31 09:31:35 10.71.54.8 u97880690 [10.71.54.8|get|0|70966|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6a732f626f6f7473747261702e62756e646c652e6d696e2e6a73|]
+Aug 31 09:31:35 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/js/bootstrap.bundle.js.map" bytes read 358832 written 0
+Aug 31 09:31:35 10.71.54.8 u97880690 [10.71.54.8|get|0|358832|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6a732f626f6f7473747261702e62756e646c652e6a732e6d6170|]
+Aug 31 09:31:35 10.71.54.8 u97880690 open "/assets/plugins/bootstrap/js/bootstrap.bundle.js" flags READ mode 0666
+Aug 31 09:31:35 10.71.54.8 u97880690 open "/assets/scss/orbit-1.scss" flags READ mode 0666
+Aug 31 09:31:35 10.71.54.8 u97880690 close "/assets/plugins/bootstrap/js/bootstrap.bundle.js" bytes read 212345 written 0
+Aug 31 09:31:35 10.71.54.8 u97880690 [10.71.54.8|get|0|212345|0|0|0|2f6173736574732f706c7567696e732f626f6f7473747261702f6a732f626f6f7473747261702e62756e646c652e6a73|]
+Aug 31 09:31:35 10.71.54.8 u97880690 close "/assets/scss/orbit-1.scss" bytes read 773 written 0
+Aug 31 09:31:35 10.71.54.8 u97880690 [10.71.54.8|get|0|773|0|0|0|2f6173736574732f736373732f6f726269742d312e73637373|]
+Aug 31 09:31:36 10.71.54.8 u97880690 open "/assets/scss/config.codekit3" flags READ mode 0666
+Aug 31 09:31:36 10.71.54.8 u97880690 open "/assets/scss/theme/spotifyplayer.scss" flags READ mode 0666
+Aug 31 09:31:36 10.71.54.8 u97880690 close "/assets/scss/config.codekit3" bytes read 46376 written 0
+Aug 31 09:31:36 10.71.54.8 u97880690 [10.71.54.8|get|0|46376|0|0|0|2f6173736574732f736373732f636f6e6669672e636f64656b697433|]
+Aug 31 09:31:36 10.71.54.8 u97880690 close "/assets/scss/theme/spotifyplayer.scss" bytes read 2525 written 0
+Aug 31 09:31:36 10.71.54.8 u97880690 [10.71.54.8|get|0|2525|0|0|0|2f6173736574732f736373732f7468656d652f73706f74696679706c617965722e73637373|]
+Aug 31 09:31:36 10.71.54.8 u97880690 open "/assets/scss/theme/base.scss" flags READ mode 0666
+Aug 31 09:31:36 10.71.54.8 u97880690 open "/assets/scss/theme/responsive.scss" flags READ mode 0666
+Aug 31 09:31:36 10.71.54.8 u97880690 close "/assets/scss/theme/base.scss" bytes read 5461 written 0
+Aug 31 09:31:36 10.71.54.8 u97880690 [10.71.54.8|get|0|5461|0|0|0|2f6173736574732f736373732f7468656d652f626173652e73637373|]
+Aug 31 09:31:36 10.71.54.8 u97880690 close "/assets/scss/theme/responsive.scss" bytes read 804 written 0
+Aug 31 09:31:36 10.71.54.8 u97880690 [10.71.54.8|get|0|804|0|0|0|2f6173736574732f736373732f7468656d652f726573706f6e736976652e73637373|]
+Aug 31 09:31:36 10.71.54.8 u97880690 open "/assets/scss/theme/mixins.scss" flags READ mode 0666
+Aug 31 09:31:36 10.71.54.8 u97880690 close "/assets/scss/theme/mixins.scss" bytes read 5124 written 0
+Aug 31 09:31:36 10.71.54.8 u97880690 [10.71.54.8|get|0|5124|0|0|0|2f6173736574732f736373732f7468656d652f6d6978696e732e73637373|]
+Aug 31 09:31:36 10.71.54.8 u97880690 open "/assets/otherfiles/Foley Jessie CP.docx" flags READ mode 0666
+Aug 31 09:31:36 10.71.54.8 u97880690 close "/assets/otherfiles/Foley Jessie CP.docx" bytes read 19339 written 0
+Aug 31 09:31:36 10.71.54.8 u97880690 [10.71.54.8|get|0|19339|0|0|0|2f6173736574732f6f7468657266696c65732f466f6c6579204a65737369652043502e646f6378|]
+Aug 31 09:31:37 10.71.54.8 u97880690 open "/logs/access.log.34.5.gz" flags READ mode 0666
+Aug 31 09:31:37 10.71.54.8 u97880690 close "/logs/access.log.34.5.gz" bytes read 589 written 0
+Aug 31 09:31:37 10.71.54.8 u97880690 [10.71.54.8|get|0|589|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e352e677a|]
+Aug 31 09:31:37 10.71.54.8 u97880690 open "/logs/access.log.34.2.gz" flags READ mode 0666
+Aug 31 09:31:37 10.71.54.8 u97880690 open "/logs/sftp.log.32.gz" flags READ mode 0666
+Aug 31 09:31:37 10.71.54.8 u97880690 close "/logs/access.log.34.2.gz" bytes read 614 written 0
+Aug 31 09:31:37 10.71.54.8 u97880690 [10.71.54.8|get|0|614|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e322e677a|]
+Aug 31 09:31:37 10.71.54.8 u97880690 close "/logs/sftp.log.32.gz" bytes read 230 written 0
+Aug 31 09:31:37 10.71.54.8 u97880690 [10.71.54.8|get|0|230|0|0|0|2f6c6f67732f736674702e6c6f672e33322e677a|]
+Aug 31 09:31:37 10.71.54.8 u97880690 open "/logs/access.log.30.gz" flags READ mode 0666
+Aug 31 09:31:37 10.71.54.8 u97880690 open "/logs/access.log.29.gz" flags READ mode 0666
+Aug 31 09:31:37 10.71.54.8 u97880690 close "/logs/access.log.30.gz" bytes read 2205 written 0
+Aug 31 09:31:37 10.71.54.8 u97880690 [10.71.54.8|get|0|2205|0|0|0|2f6c6f67732f6163636573732e6c6f672e33302e677a|]
+Aug 31 09:31:37 10.71.54.8 u97880690 open "/logs/access.log.35.6" flags READ mode 0666
+Aug 31 09:31:37 10.71.54.8 u97880690 close "/logs/access.log.29.gz" bytes read 3682 written 0
+Aug 31 09:31:37 10.71.54.8 u97880690 [10.71.54.8|get|0|3682|0|0|0|2f6c6f67732f6163636573732e6c6f672e32392e677a|]
+Aug 31 09:31:37 10.71.54.8 u97880690 close "/logs/access.log.35.6" bytes read 3243 written 0
+Aug 31 09:31:37 10.71.54.8 u97880690 [10.71.54.8|get|0|3243|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e36|]
+Aug 31 09:31:37 10.71.54.8 u97880690 open "/logs/access.log.34.6.gz" flags READ mode 0666
+Aug 31 09:31:37 10.71.54.8 u97880690 open "/logs/access.log.34.3.gz" flags READ mode 0666
+Aug 31 09:31:38 10.71.54.8 u97880690 close "/logs/access.log.34.6.gz" bytes read 713 written 0
+Aug 31 09:31:38 10.71.54.8 u97880690 [10.71.54.8|get|1|713|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e362e677a|]
+Aug 31 09:31:38 10.71.54.8 u97880690 close "/logs/access.log.34.3.gz" bytes read 677 written 0
+Aug 31 09:31:38 10.71.54.8 u97880690 [10.71.54.8|get|1|677|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e332e677a|]
+Aug 31 09:31:38 10.71.54.8 u97880690 open "/logs/access.log.32.gz" flags READ mode 0666
+Aug 31 09:31:38 10.71.54.8 u97880690 open "/logs/access.log.31.gz" flags READ mode 0666
+Aug 31 09:31:38 10.71.54.8 u97880690 close "/logs/access.log.32.gz" bytes read 2890 written 0
+Aug 31 09:31:38 10.71.54.8 u97880690 [10.71.54.8|get|0|2890|0|0|0|2f6c6f67732f6163636573732e6c6f672e33322e677a|]
+Aug 31 09:31:38 10.71.54.8 u97880690 close "/logs/access.log.31.gz" bytes read 2787 written 0
+Aug 31 09:31:38 10.71.54.8 u97880690 [10.71.54.8|get|0|2787|0|0|0|2f6c6f67732f6163636573732e6c6f672e33312e677a|]
+Aug 31 09:31:38 10.71.54.8 u97880690 open "/logs/access.log.28.gz" flags READ mode 0666
+Aug 31 09:31:38 10.71.54.8 u97880690 open "/logs/sftp.log.29.gz" flags READ mode 0666
+Aug 31 09:31:38 10.71.54.8 u97880690 close "/logs/access.log.28.gz" bytes read 8049 written 0
+Aug 31 09:31:38 10.71.54.8 u97880690 [10.71.54.8|get|0|8049|0|0|0|2f6c6f67732f6163636573732e6c6f672e32382e677a|]
+Aug 31 09:31:38 10.71.54.8 u97880690 close "/logs/sftp.log.29.gz" bytes read 417 written 0
+Aug 31 09:31:38 10.71.54.8 u97880690 [10.71.54.8|get|0|417|0|0|0|2f6c6f67732f736674702e6c6f672e32392e677a|]
+Aug 31 09:31:38 10.71.54.8 u97880690 open "/logs/access.log.35.3.gz" flags READ mode 0666
+Aug 31 09:31:38 10.71.54.8 u97880690 open "/logs/access.log.34.4.gz" flags READ mode 0666
+Aug 31 09:31:38 10.71.54.8 u97880690 close "/logs/access.log.35.3.gz" bytes read 480 written 0
+Aug 31 09:31:38 10.71.54.8 u97880690 [10.71.54.8|get|0|480|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e332e677a|]
+Aug 31 09:31:38 10.71.54.8 u97880690 close "/logs/access.log.34.4.gz" bytes read 308 written 0
+Aug 31 09:31:38 10.71.54.8 u97880690 [10.71.54.8|get|0|308|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e342e677a|]
+Aug 31 09:31:38 10.71.54.8 u97880690 open "/logs/access.log.34.1.gz" flags READ mode 0666
+Aug 31 09:31:39 10.71.54.8 u97880690 open "/logs/access.log.35.4.gz" flags READ mode 0666
+Aug 31 09:31:39 10.71.54.8 u97880690 close "/logs/access.log.34.1.gz" bytes read 748 written 0
+Aug 31 09:31:39 10.71.54.8 u97880690 [10.71.54.8|get|1|748|0|0|0|2f6c6f67732f6163636573732e6c6f672e33342e312e677a|]
+Aug 31 09:31:39 10.71.54.8 u97880690 close "/logs/access.log.35.4.gz" bytes read 553 written 0
+Aug 31 09:31:39 10.71.54.8 u97880690 [10.71.54.8|get|0|553|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e342e677a|]
+Aug 31 09:31:39 10.71.54.8 u97880690 open "/logs/access.log.27.gz" flags READ mode 0666
+Aug 31 09:31:39 10.71.54.8 u97880690 open "/logs/sftp.log.28.gz" flags READ mode 0666
+Aug 31 09:31:39 10.71.54.8 u97880690 close "/logs/access.log.27.gz" bytes read 6943 written 0
+Aug 31 09:31:39 10.71.54.8 u97880690 [10.71.54.8|get|0|6943|0|0|0|2f6c6f67732f6163636573732e6c6f672e32372e677a|]
+Aug 31 09:31:39 10.71.54.8 u97880690 close "/logs/sftp.log.28.gz" bytes read 916 written 0
+Aug 31 09:31:39 10.71.54.8 u97880690 [10.71.54.8|get|0|916|0|0|0|2f6c6f67732f736674702e6c6f672e32382e677a|]
+Aug 31 09:31:39 10.71.54.8 u97880690 open "/logs/access.log.35.2.gz" flags READ mode 0666
+Aug 31 09:31:39 10.71.54.8 u97880690 open "/logs/access.log.33.gz" flags READ mode 0666
+Aug 31 09:31:39 10.71.54.8 u97880690 close "/logs/access.log.35.2.gz" bytes read 1217 written 0
+Aug 31 09:31:39 10.71.54.8 u97880690 [10.71.54.8|get|0|1217|0|0|0|2f6c6f67732f6163636573732e6c6f672e33352e322e677a|]
+Aug 31 09:31:39 10.71.54.8 u97880690 close "/logs/access.log.33.gz" bytes read 2098 written 0
+Aug 31 09:31:39 10.71.54.8 u97880690 [10.71.54.8|get|0|2098|0|0|0|2f6c6f67732f6163636573732e6c6f672e33332e677a|]
+Aug 31 09:31:39 10.71.54.8 u97880690 open "/logs/sftp.log" flags READ mode 0666
+Aug 31 09:31:39 10.71.54.8 u97880690 open "/logs/access.log.35.1.gz" flags READ mode 0666
