@@ -1,0 +1,112 @@
+@import url("https://fonts.googleapis.com/css?family=Source+Sans+Pro");
+body {
+  padding: 0;
+  margin: 0;
+  background: gray;
+}
+body .nowplayingcard {
+  min-width: 174px;
+  max-width: 0%;
+  margin: 0 auto;
+  margin-top: 5%;
+  font-family: "Source Sans Pro", sans-serif;
+  font-size: 10px;
+}
+body .nowplayingcard .nowplayingcontainer-inner {
+  width: 100%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.534);
+  transition: 0.3s;
+  display: inline-block;
+  border-top-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+body .nowplayingcard .nowplayingcontainer-inner:hover {
+  box-shadow: 0 8px 16px 0 rgba(0, 0, 0, 0.534);
+}
+body .nowplayingcard .nowplayingcontainer-inner img#trackart {
+  max-width: 100%;
+  float: left;
+  left: 0;
+  -webkit-border-top-left-radius: 3px;
+  -moz-border-top-left-radius: 3px;
+  -ms-border-top-left-radius: 3px;
+  -o-border-top-left-radius: 3px;
+  border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-bottom-left-radius: 3px;
+  -ms-border-bottom-left-radius: 3px;
+  -o-border-bottom-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
+
+body .nowplayingcard .nowplayingcontainer-inner .trackInfo {
+  width: 100%;
+  float: none;
+  display: block;
+  background-color: rgba(0, 0, 0, 0.1);
+}
+body .nowplayingcard .nowplayingcontainer-inner .trackInfo a {
+  max-width: 90%;
+  display: block;
+  font-size: 10px;
+  text-align: left;
+  text-decoration: none;
+  overflow: hidden;
+  white-space: nowrap;
+  text-overflow: ellipsis;
+}
+body .nowplayingcard .nowplayingcontainer-inner .trackInfo a:nth-child(odd) {
+  color: white;
+  vertical-align: middle;
+  line-height: 15px;
+  letter-spacing: 0.2px;
+  padding: 0 0 0 5%;
+}
+body .nowplayingcard .nowplayingcontainer-inner .trackInfo a:nth-child(odd) img {
+  width: 15px;
+  height: 15px;
+  vertical-align: middle;
+  margin: -2% 3px 0 0;
+}
+
+.tracktitle{
+  font-weight: bold;
+}
+
+body .nowplayingcard .nowplayingcontainer-inner .trackInfo a:nth-child(even) {
+  color: white;
+  font-size: 10px;
+  letter-spacing: 0.1px;
+  padding: 2% 0 0 5%;
+}
+body .nowplayingcard .nowplayingcontainer-inner .trackInfo a:nth-child(even) img {
+  width: 15px;
+  height: 15px;
+  vertical-align: middle;
+  margin: -2% 3px 0 0;
+}
+#divider {
+  height: 0.12em;
+  background-color: black;
+}
+body div div div.otherSong{
+  height: 4em;
+}
+
+#track2art, #track3art, #track4art {
+  max-width: 30%;
+  float: left;
+  left: 0;
+  height: 4em;
+  width: auto;
+  -webkit-border-top-left-radius: 3px;
+  -moz-border-top-left-radius: 3px;
+  -ms-border-top-left-radius: 3px;
+  -o-border-top-left-radius: 3px;
+  border-top-left-radius: 3px;
+  -webkit-border-bottom-left-radius: 3px;
+  -moz-border-bottom-left-radius: 3px;
+  -ms-border-bottom-left-radius: 3px;
+  -o-border-bottom-left-radius: 3px;
+  border-bottom-left-radius: 3px;
+}
